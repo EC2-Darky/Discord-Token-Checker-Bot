@@ -26,7 +26,7 @@ async def check(ctx, *, arg):
 		await ctx.send("Token is Valid!")
 	else:
 		await ctx.send("Token is Invalid!")
-#How this Command works, type !check and write behind the !check the token, then the Bot will say you if the token is Valid or Invalid!
+#How this Command works, type !check and write behind the !check the token, then the Bot will say you if the token is Valid or Invalid!(Only works with User tokens!)
 
 client.run('BOT TOKEN')
 #Delete the text BOT TOKEN and put the Bot token in there!
