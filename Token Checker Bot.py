@@ -3,7 +3,7 @@ from discord.ext import commands
 from discord.ext.commands import bot
 import asyncio
 import requests
-#imports that you need!
+#Modules that you need!
 
 client=commands.Bot(command_prefix='!')#Prefix(You can change it to whatever you want!)
 
